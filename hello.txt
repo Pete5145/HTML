@@ -1,1 +1,5 @@
 first line
+second line
+third line
+ git config --global user.email "peterosakpolor661@gmail.com"
+  git config --global user.name "Pete5145"
